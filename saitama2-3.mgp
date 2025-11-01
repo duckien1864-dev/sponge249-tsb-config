@@ -1,0 +1,18 @@
+[backdashConsec]
+bindedkey=R
+repeat=1
+e={2 down}
+e={2 up}
+e={s down}
+e={q down}
+e={q up}
+e={s up}
+[backdashShove]
+bindedkey=E
+repeat=1
+e={3 down}
+e={3 up}
+e={s down}
+e={q down}
+e={q up}
+e={s up}
